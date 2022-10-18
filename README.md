@@ -1,6 +1,6 @@
 <h1 align="center"> Participantes </h1> 
 
-Cursistas do Grupo de Estudos Formadores em Ação de Pensamento Computacional 2023 do GE Formadores em Ação - Turma E.
+Cursistas do Grupo de Estudos Formadores em Ação de Pensamento Computacional 2023 - Turma E.
 
 <h2 align="center"> Linguagens Utilizadas </h2> 
 
