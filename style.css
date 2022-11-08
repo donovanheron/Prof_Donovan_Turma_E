@@ -1,3 +1,11 @@
+body {
+    margin-top: 05%;
+    background-color: #E6E6FA;
+    margin-left: 05%;
+    margin-right: 05%;
+    font-family: Arial;
+    }
+
 cr {
     color:red;
     text-align:center
