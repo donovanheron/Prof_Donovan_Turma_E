@@ -1,17 +1,18 @@
 body {
     margin-top: 05%;
-    background-color: #E6E6FA;
+    background-image:url('https://cdn.discordapp.com/attachments/863601764572987402/1039637863723180062/back.jpg');
     margin-left: 05%;
     margin-right: 05%;
-    font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
     }
 
+    
 cr {
     color:red;
     text-align:center
 }
 
 p {
-    color:black;
+    color:white;
     text-align: center;
 }
