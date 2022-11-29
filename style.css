@@ -8,11 +8,25 @@ body {
 
     
 cr {
-    color:red;
+    color:white;
     text-align:center
 }
 
 p {
     color:black;
-    text-align: center;
+    text-align:justify;
+
+}
+
+.conteudos {
+    background: cyan;
+}
+
+.welcome {
+    background: blueviolet;
+}
+
+.logo {
+    background: blueviolet;
+    color: white;
 }
